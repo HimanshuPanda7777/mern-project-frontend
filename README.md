@@ -43,4 +43,9 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
     - Show basic user info
     - List of articles populated from author's created articles or author's favorited articles
 
+#SCREENSHOTS
+
+![Screenshot (139)](https://github.com/user-attachments/assets/39e64ff0-fa82-40f7-92fa-99964c2231ff)
+
+
 <br />
