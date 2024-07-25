@@ -45,9 +45,9 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 # SCREENSHOTS
 
-![Screenshot (139)](https://github.com/user-attachments/assets/39e64ff0-fa82-40f7-92fa-99964c2231ff)
-
 ![Screenshot (135)](https://github.com/user-attachments/assets/4d36f841-06f4-45ed-b933-a62f4e534944)
+
+![Screenshot (139)](https://github.com/user-attachments/assets/39e64ff0-fa82-40f7-92fa-99964c2231ff)
 
 ![Screenshot (140)](https://github.com/user-attachments/assets/60a791e0-633e-4c84-81cd-81ff2d3d7f17)
 
