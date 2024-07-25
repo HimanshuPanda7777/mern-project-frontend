@@ -43,9 +43,13 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
     - Show basic user info
     - List of articles populated from author's created articles or author's favorited articles
 
-#SCREENSHOTS
+# SCREENSHOTS
 
 ![Screenshot (139)](https://github.com/user-attachments/assets/39e64ff0-fa82-40f7-92fa-99964c2231ff)
+![Screenshot (135)](https://github.com/user-attachments/assets/4d36f841-06f4-45ed-b933-a62f4e534944)
+![Screenshot (140)](https://github.com/user-attachments/assets/60a791e0-633e-4c84-81cd-81ff2d3d7f17)
+![Screenshot (142)](https://github.com/user-attachments/assets/95f6bad3-304a-4ef4-b9c5-d0955f03f402)
+![Screenshot (143)](https://github.com/user-attachments/assets/8546d1ed-b6ab-47b3-af25-fea768d2839a)
 
 
 <br />
